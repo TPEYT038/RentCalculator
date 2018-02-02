@@ -1,0 +1,2 @@
+-Pictures don't work on older emulators and crash the app
+-Therefore, please use Android Nexus 5 Emulator
