@@ -24,6 +24,8 @@
             </intent-filter>
         </activity>
         <activity android:name="uottawa.engineering.rentcalculator.Main2Activity" />
+        <activity android:name="uottawa.engineering.rentcalculator.activity_settings" />
+        <activity android:name="uottawa.engineering.rentcalculator.More_details" />
 
         <meta-data
             android:name="android.support.VERSION"

@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
+<<<<<<< HEAD
 <merger version="3"><dataSet config="main"><source path="C:\Users\Tyler Peyton\projects\RentCalculator\app\src\main\assets"/><source path="C:\Users\Tyler Peyton\projects\RentCalculator\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\Tyler Peyton\projects\RentCalculator\app\src\debug\assets"/></dataSet></merger>
+=======
+<merger version="3"><dataSet config="main"><source path="C:\Users\Mathieu\StudioProjects\RentCalculator\app\src\main\assets"/><source path="C:\Users\Mathieu\StudioProjects\RentCalculator\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\Mathieu\StudioProjects\RentCalculator\app\src\debug\assets"/></dataSet></merger>
+>>>>>>> 10e2a77ebccafcbf8977ed0cb38ca3d035e62af7

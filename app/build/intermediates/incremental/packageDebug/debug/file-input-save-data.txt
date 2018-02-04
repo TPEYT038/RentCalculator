@@ -1,4 +1,5 @@
 #Internal package file, do not edit.
+<<<<<<< HEAD
 #Sun Feb 04 00:06:42 EST 2018
 2.base=C\:\\Users\\Tyler Peyton\\projects\\RentCalculator\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\22
 5.set=DEX
@@ -12,6 +13,21 @@ count=6
 5.baseType=DIRECTORY
 2.path=classes.dex
 5.base=C\:\\Users\\Tyler Peyton\\projects\\RentCalculator\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\20
+=======
+#Sat Feb 03 23:15:52 EST 2018
+2.base=C\:\\Users\\Mathieu\\StudioProjects\\RentCalculator\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\35
+5.set=DEX
+0.path=classes.dex
+2.baseType=DIRECTORY
+3.base=C\:\\Users\\Mathieu\\StudioProjects\\RentCalculator\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\33
+2.set=DEX
+1.path=classes.dex
+4.base=C\:\\Users\\Mathieu\\StudioProjects\\RentCalculator\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\31
+count=6
+5.baseType=DIRECTORY
+2.path=classes.dex
+5.base=C\:\\Users\\Mathieu\\StudioProjects\\RentCalculator\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\36
+>>>>>>> 10e2a77ebccafcbf8977ed0cb38ca3d035e62af7
 4.set=DEX
 3.path=classes.dex
 3.baseType=DIRECTORY
@@ -19,9 +35,16 @@ count=6
 4.path=classes.dex
 1.baseType=DIRECTORY
 5.path=classes.dex
+<<<<<<< HEAD
 0.base=C\:\\Users\\Tyler Peyton\\projects\\RentCalculator\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\19
 0.baseType=DIRECTORY
 3.set=DEX
 1.base=C\:\\Users\\Tyler Peyton\\projects\\RentCalculator\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\23
+=======
+0.base=C\:\\Users\\Mathieu\\StudioProjects\\RentCalculator\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\34
+0.baseType=DIRECTORY
+3.set=DEX
+1.base=C\:\\Users\\Mathieu\\StudioProjects\\RentCalculator\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\32
+>>>>>>> 10e2a77ebccafcbf8977ed0cb38ca3d035e62af7
 4.baseType=DIRECTORY
 0.set=DEX

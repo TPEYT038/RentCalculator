@@ -33,10 +33,17 @@
             ]
         },
         {
+<<<<<<< HEAD
             "outputFile": "C:\\Users\\Tyler Peyton\\projects\\RentCalculator\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v24\\values-v24.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Tyler Peyton\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\d6963caa85f03cd157692b99a994bd6f\\res\\values-v24\\values-v24.xml",
+=======
+            "outputFile": "C:\\Users\\Mathieu\\StudioProjects\\RentCalculator\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v24\\values-v24.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Mathieu\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\401cd0c9787b34f1013e54e583b0a9f3\\res\\values-v24\\values-v24.xml",
+>>>>>>> 10e2a77ebccafcbf8977ed0cb38ca3d035e62af7
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -53,7 +60,11 @@
                     }
                 },
                 {
+<<<<<<< HEAD
                     "source": "C:\\Users\\Tyler Peyton\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\6dd41c87b746ab3045c7a935029cd600\\res\\values-v24\\values-v24.xml",
+=======
+                    "source": "C:\\Users\\Mathieu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\a9adb0589826726adf894b756d44d72c\\res\\values-v24\\values-v24.xml",
+>>>>>>> 10e2a77ebccafcbf8977ed0cb38ca3d035e62af7
                     "from": {
                         "startLines": "2,3,4,5,6,7",
                         "startColumns": "4,4,4,4,4,4",

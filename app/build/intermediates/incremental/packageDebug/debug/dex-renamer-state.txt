@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #Sun Feb 04 00:06:42 EST 2018
+=======
+#Sat Feb 03 23:15:52 EST 2018
+>>>>>>> 10e2a77ebccafcbf8977ed0cb38ca3d035e62af7
 path.1=classes.dex
 path.0=classes.dex
 renamed.5=classes6.dex
@@ -7,12 +11,21 @@ renamed.3=classes4.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
+<<<<<<< HEAD
 base.5=C\:\\Users\\Tyler Peyton\\projects\\RentCalculator\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\22
 base.4=C\:\\Users\\Tyler Peyton\\projects\\RentCalculator\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\19
 base.3=C\:\\Users\\Tyler Peyton\\projects\\RentCalculator\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\21
 base.2=C\:\\Users\\Tyler Peyton\\projects\\RentCalculator\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\24
 base.1=C\:\\Users\\Tyler Peyton\\projects\\RentCalculator\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\23
 base.0=C\:\\Users\\Tyler Peyton\\projects\\RentCalculator\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\20
+=======
+base.5=C\:\\Users\\Mathieu\\StudioProjects\\RentCalculator\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\34
+base.4=C\:\\Users\\Mathieu\\StudioProjects\\RentCalculator\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\32
+base.3=C\:\\Users\\Mathieu\\StudioProjects\\RentCalculator\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\35
+base.2=C\:\\Users\\Mathieu\\StudioProjects\\RentCalculator\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\33
+base.1=C\:\\Users\\Mathieu\\StudioProjects\\RentCalculator\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\36
+base.0=C\:\\Users\\Mathieu\\StudioProjects\\RentCalculator\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\31
+>>>>>>> 10e2a77ebccafcbf8977ed0cb38ca3d035e62af7
 path.5=classes.dex
 path.4=classes.dex
 path.3=classes.dex

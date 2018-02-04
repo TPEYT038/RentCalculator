@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 #Sun Feb 04 00:06:39 EST 2018
 base.0=C\:\\Users\\Tyler Peyton\\projects\\RentCalculator\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\11
+=======
+#Sat Feb 03 23:15:27 EST 2018
+base.0=C\:\\Users\\Mathieu\\StudioProjects\\RentCalculator\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\30
+>>>>>>> 10e2a77ebccafcbf8977ed0cb38ca3d035e62af7
 path.0=classes.dex
 renamed.0=classes.dex
